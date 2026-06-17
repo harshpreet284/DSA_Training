@@ -1,0 +1,8 @@
+Datatype
+Variable
+Scope
+condition
+loops
+string
+
+Question for homework -> 58, 258
